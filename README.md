@@ -1,5 +1,9 @@
 scratch-gui modified for use in [TurboWarp](https://turbowarp.org/)
 
+# Difference from normal Turbowarp:
+normal Turbowarp does not allow to embed the editor into an iframe.
+This one does. It allows to embed any part of the site into an iframe.
+
 ## Setup
 
 See https://docs.turbowarp.org/development/getting-started to setup the complete TurboWarp environment.
